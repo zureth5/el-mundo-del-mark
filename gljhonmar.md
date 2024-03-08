@@ -1,5 +1,5 @@
 # Jhonmar
-# Jhonmar Aldana
+# Jhonmar Aldana gg
 ## Aprendiz de Programacion
 
 Aprendiendo markdown por primera vez, esto es una **prueba**, veamos como resulta
@@ -9,15 +9,13 @@ Me gustan los videosjuegos, pero siento que son una **perdida de tiempo** por es
 
 
 
-### Te Amo THOMAS
+### Te Amo THOMAS ❤️
 
 * Te Amo Thomas
-* Thomas
-* Thomas}
-* Lol
-* Ajaja
-* XD
-* 
+* Te Amo Haru
+* Te Amo Pati
+* Probando 1123
+
 ### Prueba
 
 1. Thomas
@@ -27,6 +25,15 @@ Me gustan los videosjuegos, pero siento que son una **perdida de tiempo** por es
 5. 3rrd
 6. jgjg
 7. 
+| 95 | Prueba-Tabla |
+| 87 | Prueba-Tabla |
+| 65 | Prueba-Tabla |
+| 48 | Prueba-Tabla |
+| 35 | Prueba-Tabla |
+
+modified
+avee
+
 
 
 
